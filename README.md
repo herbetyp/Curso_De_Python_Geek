@@ -9,4 +9,5 @@ Curso de Python Geek University
 git clone https://github.com/Hp2501/Curso_De_Python.git
 cd Curso_De_Python
 python3 -m venv .venv
+source .venv/bin/activate
 ```
